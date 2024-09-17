@@ -20,7 +20,7 @@ function App() {
         <div className="">
           <h2 className=' font-neto text-[28px] text-center my-4 '>Digital Clock</h2>
         </div>
-        <div className=" w-[400px] h-[150px] mx-auto bg-black text-center leading-[150px]  rounded-[20px]">
+        <div className=" lg:w-[400px] w-full h-[150px] mx-auto bg-black text-center leading-[150px]  rounded-[20px]">
           <h2 className=' font-Time text-[46px] text-[red]'> {newTime} </h2>
         </div>
       </Container>
