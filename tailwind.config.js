@@ -7,7 +7,8 @@ export default {
   theme: {
     fontFamily: {
       'neto': ['Noto Sans', 'sans-serif'],
-    
+      'Time': ['Silkscreen', 'sans-serif'],
+ 
     },
     extend: {},
   },
